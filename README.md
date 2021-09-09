@@ -1,2 +1,2 @@
 # Earth 2150 Proxy Launcher
-![logo](logo.png)
+![logo](images\logo.png)
