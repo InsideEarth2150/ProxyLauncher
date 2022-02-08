@@ -9,32 +9,31 @@
 
 ### Installation
 
-1. Copy the "launcher" or "launcherShell" (*1) folder and all its contents
-   too either your desktop, your MyGames Folder, or noather location
+Copy the "launcher" or "launcherShell" (*1) folder and all its contents too either your desktop, your MyGames Folder, or another location.
 ```
-~/Game Directory/
- 	└── launcher\
+~/Directory/
+ 	└── launcher/
 	      ├── TheMoonProject.exe
-	      └── WDFiles\
+	      └── WDFiles/
 		      └── InterfaceEx.wd
 ```
-**__[!!] DO NOT extract the files (!) into the root directory of the game__**
+**_[!!] DO NOT extract the files (!) into the root directory of the game_**
 
 
 Example Directory hierarchy should look like this:
 ```
-~/Earth 2150 The Moon Project
-   	└── launcherShell\
+~/MyGames/
+   	└── launcherShell/
 	      ├── TheMoonProject.exe
-	      └── WDFiles\
+	      └── WDFiles/
 		      └── InterfaceEx.wd
 ```
 or 
 ```
-~/Earth 2150 The Moon Project
-   	└── launcher\
+~/MyGames/
+   	└── launcher/
 	      ├── TheMoonProject.exe
-	      └── WDFiles\
+	      └── WDFiles/
 		      └── InterfaceEx.wd
 ```
 
