@@ -18,7 +18,7 @@
 	      └── WDFiles\
 		      └── InterfaceEx.wd
 ```
-**[!!] DO NOT extract the files (!) into the root directory of the game**
+**__[!!] DO NOT extract the files (!) into the root directory of the game__**
 
 
 Example Directory hierarchy should look like this:
