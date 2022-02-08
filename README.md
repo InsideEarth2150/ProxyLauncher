@@ -35,7 +35,7 @@ C:/Users/USERNAME/MyGames/
 + Edit launcher\commandline.txt to append custom command line arguments to executable.
 
 
-### Changelog ---------------------------------------------------------------------------------
+### Changelog
 
 v0.7:
 - Beta release
