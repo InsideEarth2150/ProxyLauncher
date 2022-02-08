@@ -12,7 +12,7 @@
 1. Copy the "launcher" or "launcherShell" (*1) folder and all its contents
    too either your desktop, your MyGames Folder, or noather location
 ```
-~/Game Directory/
+~/Directory/
  	└── launcher/
 	      ├── TheMoonProject.exe
 	      └── WDFiles/
@@ -23,19 +23,11 @@
 
 Example Directory hierarchy should look like this:
 ```
-~/MyGames/
-   	└── launcher/
-	      ├── TheMoonProject.exe
-	      └── WDFiles/
-		      └── InterfaceEx.wd
-```
-or 
-```
-~/MyGames/
-   	└── launcherShell/
-	      ├── TheMoonProject.exe
-	      └── WDFiles/
-		      └── InterfaceEx.wd
+C:/Users/USERNAME/MyGames/
+	   	└── launcher/
+		      ├── TheMoonProject.exe
+		      └── WDFiles/
+			      └── InterfaceEx.wd
 ```
 
 ### Customisation
